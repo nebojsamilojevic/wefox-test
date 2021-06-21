@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [LEGO suite]">
+  <test name="LEGO tests(failed)">
+    <classes>
+      <class name="com.lego.tests.Lego_Test_02">
+        <methods>
+          <include name="cleanUp"/>
+          <include name="lego_test_02"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.lego.tests.Lego_Test_02 -->
+      <class name="com.lego.tests.Lego_Test_01">
+        <methods>
+          <include name="cleanUp"/>
+          <include name="lego_test_01"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.lego.tests.Lego_Test_01 -->
+    </classes>
+  </test> <!-- LEGO tests(failed) -->
+</suite> <!-- Failed suite [LEGO suite] -->

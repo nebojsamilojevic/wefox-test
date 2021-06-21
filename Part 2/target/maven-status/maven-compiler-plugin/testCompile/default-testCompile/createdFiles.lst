@@ -1,0 +1,10 @@
+com\lego\util\PropertiesUtil.class
+com\lego\page\FourPlusPage.class
+com\lego\tests\Lego_Test_01.class
+com\lego\base\PageBase.class
+com\lego\util\HandlerUtil.class
+com\lego\base\BaseTest.class
+com\lego\page\HomePage.class
+com\lego\tests\Lego_Test_02.class
+com\lego\util\HelperUtil.class
+com\lego\page\ProductPreview.class
