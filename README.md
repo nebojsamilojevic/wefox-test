@@ -11,9 +11,9 @@
 - Google Chrome 91.0.4472.106
 
 #### Run the project on a local machine:
-- Open command line and navigate to the root folder of the project, where is pom.xml
-- Command: mvn clean test -DsuiteXmlFile=regression-suite
-- Test results are in the target folder after execution
+- Open command line and navigate to the root folder of the project, where **pom.xml** file is located.
+- Run the following command: ```mvn clean test -DsuiteXmlFile=regression-suite```
+- Test results are in the target folder after execution.
 
 ### Who do I talk to?
 - nebojsa.milojevic@wayseven.com
