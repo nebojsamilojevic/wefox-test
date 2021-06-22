@@ -32,5 +32,5 @@
 	* The main purpose of End-to-end testing is to test from the end user’s experience by simulating the real user scenario and validating the system under test. Software systems are often complex and contain numerous subsystems. If any of the subsystems fails, the whole software system could crash. This is a major risk and can be avoided by end-to-end testing. In our case, to test these functionalities script needs to go through the several other features: filtering/searching products, checking number of filtered products, previews, add product in cart...
 * Integration - YES
 	* As mentioned in end-to-end testing, features must work well separately and together. Interaction between different components should work as expected, and our tests confirm that perfectly.
-* User Acceptance testing - NO
+* User Acceptance testing - NO (at this moment)
 	* User acceptance testing comes at the end of testing chain, and its purpose is testing real-life, end user test scenarios before releasing it. I assume that this application is in production mode for a while, so this kind of testing should be performed before pushing the code on production.
