@@ -22,7 +22,7 @@
 	* Action that confirms booking should be in different color (ex. light green)
 * "Booking date" field doesn't have a "legend"
 	* The field is not explained, users could be confused
-	* "Booking date" field should be "Booking dates" fields (date from-to)
+* "Booking date" field should be "Booking dates" fields (date from-to)
 	* Now users can select only a single date
 	* System doesn't allow users to book a hotel for a couple of days
 * Users can delete and input any value in "Booking date" field
